@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_IKWIULTfEe61e4NJtAabCA" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_IKWIUbTfEe61e4NJtAabCA" comment="" name="Local_Con_Database" prompt="Local_Con_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="core_001_copy"/>
-  <contextParameter xmi:id="_IKWIUrTfEe61e4NJtAabCA" comment="" name="Local_Con_Password" prompt="Local_Con_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:gzAAm8DtrAzxIGdPDMXl+HqSVBB4SxBjs98ZH8M21LbcbN1z5Cc="/>
-  <contextParameter xmi:id="_IKWIU7TfEe61e4NJtAabCA" comment="" name="Local_Con_Login" prompt="Local_Con_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="root"/>
-  <contextParameter xmi:id="_IKWIVLTfEe61e4NJtAabCA" comment="" name="Local_Con_Port" prompt="Local_Con_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3307"/>
-  <contextParameter xmi:id="_IKWIVbTfEe61e4NJtAabCA" comment="" name="Local_Con_Server" prompt="Local_Con_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="localhost"/>
-  <contextParameter xmi:id="_IKWIVrTfEe61e4NJtAabCA" comment="" name="Local_Con_AdditionalParams" prompt="Local_Con_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
-</talendfile:ContextType>
